@@ -1271,3 +1271,16 @@ section {
     text-align: ceneter;
   }
 }
+
+#game .row .btn {
+  background: #fcb102;
+
+}
+#game .row .btn:hover {
+  background: #fff;
+
+}
+
+
+
+
